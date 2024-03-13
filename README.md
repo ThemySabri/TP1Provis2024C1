@@ -19,7 +19,7 @@ Program ini adalah sistem manajemen karakter untuk sebuah permainan. Dalam perma
 4. Karakter pemain dapat menggunakan item dari inventarisnya menggunakan metode useItem.
 5. Pemain dapat menyerang karakter lain menggunakan metode attack.
 6. Karakter non-pemain dapat berinteraksi dengan pemain, misalnya memberikan misi atau bertarung.
-7. Program menampilkan pesan berdasarkan aksi yang dilakukan oleh pemain dan karakter lainnya.1
+7. Program menampilkan pesan berdasarkan aksi yang dilakukan oleh pemain dan karakter lainnya.
 
 ## Screenshots
 
