@@ -4,7 +4,7 @@
 
 Saya Themy Sabri Syuhada dengan NIM 2203903.
 Demi keberkahan-Nya, saya berjanji mengerjakan
-tugas praktikum 1 DPBO dengan jujur dan tidak melakukan kecurangan seperti yang telah dispesifikasikan.
+tugas praktikum 1 Provis dengan jujur dan tidak melakukan kecurangan seperti yang telah dispesifikasikan.
 Aamiin.
 
 ## Deskripsi
